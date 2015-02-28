@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/avafab/Dropbox/Fabrizio/Lavoro/Android/workspace_studio/open-source/URLMediaPlayer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/avafab/Dropbox/Fabrizio/Lavoro/Android/workspace_studio/open-source/URLMediaPlayer/app/build/intermediates/pre-dexed/debug/classes-db7d0171fc64049c5c3ef835be8fb9a218c3da30.jar" />
+    </item>
+    <item
+        jar="/Users/avafab/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/avafab/Dropbox/Fabrizio/Lavoro/Android/workspace_studio/rssmp3player/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-140c74b87e0cb67ba02edcdb13ad7b2fec3db0a0.jar" />
+    </item>
+    <item
+        jar="/Users/avafab/Desktop/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/avafab/Dropbox/Fabrizio/Lavoro/Android/workspace_studio/rssmp3player/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-86d8c962ccc3bf05ec6bfb84638ebfbf3f2e1862.jar" />
+    </item>
+    <item
+        jar="/Users/avafab/Dropbox/Fabrizio/Lavoro/Android/workspace_studio/rssmp3player/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/avafab/Dropbox/Fabrizio/Lavoro/Android/workspace_studio/rssmp3player/app/build/intermediates/pre-dexed/debug/classes-69cb8f89ce277745da0b4003a9d84b5177d0e67b.jar" />
+    </item>
+
+</items>

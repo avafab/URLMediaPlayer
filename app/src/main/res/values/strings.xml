@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">URL Media Player</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_media_player">URL Media Player</string>
+    <string name="loading">Loading...</string>
+    <string name="file_not_found">File not found</string>
+
+</resources>
