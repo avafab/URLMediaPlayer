@@ -1,10 +1,8 @@
-# Android URL Mp3 Media Player
+# Android URL Mp3 Media Player [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-URLMediaPlayer-brightgreen.svg?style=flat)](http://android-arsenal.com/details/3/1765)
 Give an mp3 URL and an image URL to Media Player Activity and it will render a nice player for you!
 
 ##Usage
 Copy and paste URLMediaPlayerActivity.java into your code and pass the URLs to it using an intent.
-
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-URLMediaPlayer-brightgreen.svg?style=flat)](http://android-arsenal.com/details/3/1765)
 
 ![alt tag](https://raw.githubusercontent.com/avafab/URLMediaPlayer/master/screenshots/device-2015-02-28-223128.png)
 
