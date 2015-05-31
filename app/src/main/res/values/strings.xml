@@ -8,4 +8,11 @@
     <string name="loading">Loading...</string>
     <string name="file_not_found">File not found</string>
 
+    <string name="playing">Playing: </string>
+
+    <string name="forward">Forward</string>
+    <string name="pause">Pause</string>
+    <string name="play">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="player_option">Do you want to stop player?</string>
 </resources>
