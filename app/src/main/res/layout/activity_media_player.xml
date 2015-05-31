@@ -76,7 +76,7 @@
                 android:text="Bw"
                 android:id="@+id/backward"
                 android:layout_toLeftOf="@+id/pause"
-                android:onClick="seekBackward"
+                android:onClick="playerAction"
                 android:src="@drawable/ic_action_rewind"
                 android:background="@null"/>
 
@@ -87,7 +87,7 @@
             android:text="Pause"
             android:id="@+id/pause"
             android:layout_toLeftOf="@+id/play"
-            android:onClick="pause"
+            android:onClick="playerAction"
             android:src="@drawable/ic_action_pause"
             android:background="@null"/>
 
@@ -98,7 +98,7 @@
                 android:text="Play"
                 android:id="@+id/play"
                 android:layout_centerHorizontal="true"
-                android:onClick="play"
+                android:onClick="playerAction"
                 android:src="@drawable/ic_action_play"
                 android:background="@null"/>
 
@@ -109,7 +109,7 @@
                 android:text="Fw"
                 android:id="@+id/forward"
                 android:layout_toRightOf="@+id/play"
-                android:onClick="seekForward"
+                android:onClick="playerAction"
                 android:src="@drawable/ic_action_fast_forward"
                 android:background="@null"/>
 
