@@ -27,6 +27,7 @@
         </activity>
         <activity
             android:name=".URLMediaPlayerActivity"
+            android:launchMode="singleTop"
             android:label="@string/title_activity_media_player"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize">
         </activity>
